@@ -8,7 +8,13 @@ Functions implemented:
 - insert
 - delete
 
-# to start
+
+# install
+
+git clone https://github.com/lancer278/coding_demo_express_server
+yarn install
+
+# to run dev
 
 yarn server
 
